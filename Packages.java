@@ -1,4 +1,4 @@
-//package mypackage;
+//package packages;
 
 
 public class Packages {
@@ -54,7 +54,7 @@ public class Samepackage {
 public class Accesspackage {
 
     public static void main(String args[]) {
-        protection obj = new protection();
+        protection obj1 = new protection();
         Samepackage obj3 = new Samepackage();
         derived obj2 = new derived();
 

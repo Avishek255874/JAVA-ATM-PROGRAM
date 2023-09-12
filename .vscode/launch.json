@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Packages$Accesspackage",
+            "request": "launch",
+            "mainClass": "Packages$Accesspackage",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
             "name": "Accesspackage2",
             "request": "launch",
             "mainClass": "mypackage2.Accesspackage2",
