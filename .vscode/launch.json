@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Accesspackage2",
+            "request": "launch",
+            "mainClass": "mypackage2.Accesspackage2",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Atm",
+            "request": "launch",
+            "mainClass": "Atm",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "DemoChild",
+            "request": "launch",
+            "mainClass": "DemoChild",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "MyBox",
+            "request": "launch",
+            "mainClass": "MyBox",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "OverLoading",
+            "request": "launch",
+            "mainClass": "OverLoading",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "Poly1",
+            "request": "launch",
+            "mainClass": "Poly1",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismCons",
+            "request": "launch",
+            "mainClass": "PolymorphismCons",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "SqureBox",
+            "request": "launch",
+            "mainClass": "SqureBox",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "StaticBlock",
+            "request": "launch",
+            "mainClass": "StaticBlock",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "StaticBox",
+            "request": "launch",
+            "mainClass": "StaticBox",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "java_240a3a61"
+        },
+        {
+            "type": "java",
+            "name": "Accesspackage",
+            "request": "launch",
+            "mainClass": "mypackage.Accesspackage",
+            "projectName": "java_240a3a61"
+        }
+    ]
+}
